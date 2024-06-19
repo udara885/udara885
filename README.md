@@ -20,8 +20,8 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="https://www.linkedin.com/in/udara-lakshan/"><img src="https://github.com/udara885/udara885/assets/72975955/976596b8-cac5-4d33-8fa5-dcaacf2379e7" alt="LinkedIn"  height="40" width="40"/></a>
-	<a href="mailto:ulakshan061@gmail.com"><img src="https://github.com/udara885/udara885/assets/72975955/4651df22-c195-4ad4-b73c-3e4408588e71" alt="Gmail" height="40" width="40"/></a>
+	<a href="https://www.linkedin.com/in/udara-lakshan/"><img src="https://github.com/udara885/udara885/assets/72975955/a9a44a32-fabc-4bc1-a545-8534bec8c073" alt="LinkedIn"  height="40" width="40"/></a>
+	<a href="mailto:ulakshan061@gmail.com"><img src="https://github.com/udara885/udara885/assets/72975955/4ba50735-1a08-475c-a6df-695d187c1425" alt="Gmail" height="40" width="40"/></a>
 </p>
 
 ## <picture> <img src = "https://media.giphy.com/media/2DMN31jEeBLVJQGXz6/giphy.gif?cid=ecf05e470absg09qmsy2hu5t769eaj638x5kyfbs6l9378xx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px></picture>  My Skills
@@ -106,4 +106,6 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+![image]()
 
