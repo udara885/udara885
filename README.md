@@ -60,6 +60,3 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-![image](https://github.com/udara885/udara885/assets/72975955/729633ba-f651-424b-93e2-40f109380090)
-
