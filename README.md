@@ -26,67 +26,6 @@
 
 ## <picture> <img src = "https://media.giphy.com/media/2DMN31jEeBLVJQGXz6/giphy.gif?cid=ecf05e470absg09qmsy2hu5t769eaj638x5kyfbs6l9378xx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px></picture>  My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/7cab5951-4436-4eb4-9db9-a9d478593ee9"  height="40" width="40">
-  &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/3850d1d9-24f2-4e3a-8c43-ade8a5c18f51" height="40" width="40">
-  &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/772adbaf-5a01-44d2-b598-048d8653e8b8"  height="40" width="40">
-  &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/20e62957-cea5-4804-a814-943c72983845"  height="40" width="40">
-  &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/21a27c09-491a-46d1-901a-b7f74cff0915"  height="40" width="40">
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-    <img src="https://github.com/udara885/udara885/assets/72975955/af241c36-daed-4f19-83d8-4094ed3baed7"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/74bbddcb-ac73-4f90-a96b-1f6462049350"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/772adbaf-5a01-44d2-b598-048d8653e8b8"  height="40" width="40">
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/b2981e83-83ff-48b0-bfe7-d5a90568fcfa"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/fb8f6c7c-68fc-4c87-8fec-7d8081a77eb5"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/2bdaa9ec-a759-40a2-9888-6a71128e1671"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/bbc9d47d-2c1f-46d2-b7af-9f947c2fa073"  height="40" width="40">
-</p>
-
- ### <picture> <img src = "https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif?cid=ecf05e47kln7mkqt6qg2q5mlmdqmhg62xb2e55ow3mx4lbzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/cc42d28b-9ad9-4983-bb87-860ff4204ae9"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/d8e98e31-6622-42d4-a9da-1c0bfc111cdd"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/b02bf95f-1805-4ef8-9f22-435b5f45c190"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/d3aaf3c8-f1af-4a1e-bf2c-2762f425023a"  height="40" width="40">
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/22d9ed74-51b0-48cc-93b8-7d716febafe8"  height="40" width="40">
-  &emsp;
-    <img src="https://github.com/udara885/udara885/assets/72975955/9469f6c4-63af-49ea-a05b-722a003e2f14"  height="40" width="40">
-  &emsp;
-</p>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
