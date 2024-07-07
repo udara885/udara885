@@ -26,19 +26,74 @@
 	<a href="mailto:ulakshan061@gmail.com"><img src="https://github.com/udara885/udara885/assets/72975955/4ba50735-1a08-475c-a6df-695d187c1425" alt="Gmail" height="40" width="40"/></a>
 </p>
 
-## <picture> <img src = "https://media.giphy.com/media/2DMN31jEeBLVJQGXz6/giphy.gif?cid=ecf05e470absg09qmsy2hu5t769eaj638x5kyfbs6l9378xx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px></picture>  Languages and Tools
+## <picture> <img src = "https://media.giphy.com/media/2DMN31jEeBLVJQGXz6/giphy.gif?cid=ecf05e470absg09qmsy2hu5t769eaj638x5kyfbs6l9378xx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px></picture>  Skills
+
+### Programming languages
 
 <p align="center"> 
 &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/df8325af-ebc8-40ca-971f-509aa90cd0c4" height="40" width="40">
+  <img src="https://github.com/udara885/udara885/assets/72975955/90c1d85b-ad70-4fb1-85e7-8662d054c0d4" height="40" width="40">
 &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/5dce21b5-fd1c-4c07-9b16-0207d1c16fa7" height="40" width="40">
+  <img src="https://github.com/udara885/udara885/assets/72975955/d812b26c-0f2a-402a-a037-60eeeeaafa8d" height="40" width="40">
 &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/6ebc8496-2450-45ef-8c74-08a87f9850db" height="40" width="40">
+  <img src="https://github.com/udara885/udara885/assets/72975955/d959acf3-a935-4fda-bca5-a3aa3a859cc7" height="40" width="40">
 &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/b269369f-5974-41b7-b1cc-192a6293e172" height="40" width="40">
+  <img src="https://github.com/udara885/udara885/assets/72975955/4c1b0f90-0b53-45be-8efa-5ce0dbf8be0c" height="40" width="40">
 &emsp;
-  <img src="https://github.com/udara885/udara885/assets/72975955/729633ba-f651-424b-93e2-40f109380090" height="40" width="40">
+  <img src="https://github.com/udara885/udara885/assets/72975955/7e70f9d7-60b3-43f4-8950-79c60f804adc" height="40" width="40">
+&emsp;
+	<img src="https://github.com/udara885/udara885/assets/72975955/ba8ab9e2-a22a-4be5-ac27-8ec0790c2238" height="40" width="40">
+</p>
+
+### Frontend Development
+
+<p align="center">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/fbaad7ed-d4b1-4993-a3de-aa71f0178dbb" height="40" width="40">
+  	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/9b0122d0-f217-4965-ad80-986efe4aaf29" height="40" width="40">
+  	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">
+</p>
+
+### Backend Development
+
+<p align="center">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/85f5202e-03bc-4223-8607-2e6ae17c97ef" height="40" width="40">
+</p>
+
+### Database
+
+<p align="center">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/3710a12a-5308-4732-94a1-ba1af58f2429" height="40" width="40">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/fabcc1b7-1564-4440-95a9-f2b7fdf4066e" height="40" width="40">
+</p>
+
+### Software
+
+<p align="center">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/869acfc0-e21b-43ce-8687-d953c274e5ee" height="40" width="40">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/e26e3bc8-8ab7-448b-a1a3-05cce78162c0" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/udara885/udara885/assets/72975955/c392a782-18d8-4dda-befa-9c63d5fd8c92" height="40" width="40">
+</p>
+
+### Other
+
+<p align="center">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/5a34f96f-078b-4320-9e53-4a12759a8ae9" height="40" width="40">
+	&emsp;
+ 	<img src="https://github.com/udara885/udara885/assets/72975955/483ed9b4-e5ee-4f79-90ef-41b23238b081" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/udara885/udara885/assets/72975955/cdc36263-89df-4fc7-9839-4f9a1e86e08c" height="40" width="40">
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -58,5 +113,6 @@
 </p>
 
 <div align="center">
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
