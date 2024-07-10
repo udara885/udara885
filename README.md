@@ -55,14 +55,14 @@
   	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
 	&emsp;
-	<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">
+	<!--<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">-->
 </p>
 
 ### Backend Development
 
 <p align="center">
 	&emsp;
- 	<img src="https://github.com/udara885/udara885/assets/72975955/85f5202e-03bc-4223-8607-2e6ae17c97ef" height="40" width="40">
+ 	<!--<img src="https://github.com/udara885/udara885/assets/72975955/85f5202e-03bc-4223-8607-2e6ae17c97ef" height="40" width="40">-->
 </p>
 
 ### Database
