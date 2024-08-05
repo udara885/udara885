@@ -80,9 +80,6 @@
 	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/869acfc0-e21b-43ce-8687-d953c274e5ee" height="40" width="40">
 	&emsp;
- 	<img src="https://github.com/udara885/udara885/assets/72975955/e26e3bc8-8ab7-448b-a1a3-05cce78162c0" height="40" width="40">
-	&emsp;
-	<img src="https://github.com/udara885/udara885/assets/72975955/c392a782-18d8-4dda-befa-9c63d5fd8c92" height="40" width="40">
 </p>
 
 ### Other
