@@ -14,7 +14,7 @@
 
 - :school: I am a `Student` at  National Institude of Business Management.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Frontend Development`.
 - :nerd_face: Always `learning new things`.
 <br>
 
