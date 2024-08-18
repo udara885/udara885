@@ -42,7 +42,7 @@
 &emsp;
   <img src="https://github.com/udara885/udara885/assets/72975955/7e70f9d7-60b3-43f4-8950-79c60f804adc" height="40" width="40">
 &emsp;
-	<img src="https://github.com/udara885/udara885/assets/72975955/ba8ab9e2-a22a-4be5-ac27-8ec0790c2238" height="40" width="40">
+<img src="https://github.com/udara885/udara885/assets/72975955/ba8ab9e2-a22a-4be5-ac27-8ec0790c2238" height="40" width="40">
 </p>
 
 ### Frontend Development
@@ -53,6 +53,8 @@
   	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/9b0122d0-f217-4965-ad80-986efe4aaf29" height="40" width="40">
   	&emsp;
+	<img src="https://github.com/udara885/udara885/assets/72975955/4c1b0f90-0b53-45be-8efa-5ce0dbf8be0c" height="40" width="40">
+	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
 	&emsp;
 	<!--<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">-->
