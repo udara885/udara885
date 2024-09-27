@@ -14,7 +14,7 @@
 
 - :school: I am a `Student` at  National Institude of Business Management.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Frontend Development`.
+- :student: I’m currently learning `Front End Development Libraries`.
 - :nerd_face: Always `learning new things`.
 <br>
 
@@ -56,6 +56,8 @@
 	<img src="https://github.com/udara885/udara885/assets/72975955/4c1b0f90-0b53-45be-8efa-5ce0dbf8be0c" height="40" width="40">
 	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/user-attachments/assets/9effcae2-f6ab-4cb9-b70a-af8a6f2c6921" height="40" width="40">
 	&emsp;
 	<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">
 </p>
