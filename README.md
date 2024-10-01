@@ -57,10 +57,6 @@
 	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
 	&emsp;
-	<img src="https://github.com/user-attachments/assets/9effcae2-f6ab-4cb9-b70a-af8a6f2c6921" height="40" width="40">
-	&emsp;
-	<img src="https://github.com/user-attachments/assets/dd8b0521-062d-47bd-b9be-87cb703031f3" height="40" width="40">
-	&emsp;
 	<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">
 </p>
 
