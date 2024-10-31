@@ -1,4 +1,3 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <p align = "center">
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 </p>
@@ -105,13 +104,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara885&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="udara885" />
 </p>
 
-## 🐍 A Snake is Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 <div align="center">
-
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div>
+
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
