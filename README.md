@@ -11,7 +11,7 @@
 <br><br>
 
 - :school: I am a `Student` at  National Institude of Business Management.
-- :technologist: I love using Code as a solution for every `Problem`.
+- :technologist: I love using `Code` as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 <br>
 
