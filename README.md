@@ -33,7 +33,11 @@
   	&emsp;
 	<img src="https://github.com/udara885/udara885/assets/72975955/4c1b0f90-0b53-45be-8efa-5ce0dbf8be0c" height="40" width="40">
 	&emsp;
- 	<img src="https://github.com/udara885/udara885/assets/72975955/d60f37c8-3298-4e41-9428-1e793b8f5449" height="40" width="40">
+ 	<img src="https://github.com/user-attachments/assets/8f8b39ab-8be2-4521-a2b0-244987f8e1f1" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/user-attachments/assets/f6ffbaac-957e-4ddc-a19c-3d3d18ccef1d" height="40" width="40">
+	&emsp;
+	<img src="https://github.com/user-attachments/assets/fb7c9a5a-ede9-4619-9efd-8c42166d3b89" height="40" width="40">
 	&emsp;
 	<img src="https://github.com/udara885/udara885/assets/72975955/57148614-c2ea-40d5-a0d6-4d0236bd7823" height="40" width="40">
 	&emsp;
@@ -50,8 +54,6 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=udara885&theme=react&show_icons=true&hide_border=true&count_private=false" alt="udara885" />
-	&emsp;
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=udara885&theme=react&hide_border=true" alt="udara885" />
 	&emsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara885&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="udara885" />
 </p>
