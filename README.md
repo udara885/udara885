@@ -2,7 +2,7 @@
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 </p>
 <h1 align="center">Hi 👋, I'm Udara Lakshan</h1>
-<h3 align="center">Full-Stack Development Beginner</h3>
+<h3 align="center">Beginner Full-Stack Developer</h3>
 
 ## <picture><img src = "https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b7611tx2imbo5g5d4augvu3n5uuh10a3o5nfogro94h5b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 90px></picture> About me
 
