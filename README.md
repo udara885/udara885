@@ -10,9 +10,9 @@
 
 <br><br>
 
-- :school: I am a `Student` at  National Institude of Business Management.
-- :technologist: I love using `Code` as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
+- 🧠 Learning by doing
+- 💻 Building stuff with what I learn
+- 🚀 Growing one line of code at a time
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
