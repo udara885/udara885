@@ -15,7 +15,7 @@
 - 🚀 Growing one line of code at a time
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect
 <p align="center">
 	&emsp;
 	<a href="https://www.linkedin.com/in/udara-lakshan/"><img src="https://github.com/udara885/udara885/assets/72975955/a9a44a32-fabc-4bc1-a545-8534bec8c073" alt="LinkedIn"  height="40" width="40"/></a>
