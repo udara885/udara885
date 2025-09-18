@@ -50,13 +50,13 @@
 	<img src="https://github.com/udara885/udara885/assets/72975955/cdc36263-89df-4fc7-9839-4f9a1e86e08c" height="40" width="40">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<!-- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=udara885&theme=react&show_icons=true&hide_border=true&count_private=false" alt="udara885" />
 	&emsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara885&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="udara885" />
-</p>
+</p> -->
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
