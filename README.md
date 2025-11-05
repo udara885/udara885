@@ -43,6 +43,8 @@
 	&emsp;
 	<img src="https://github.com/user-attachments/assets/92362295-a891-4770-a61d-5adb622e4f9e" height="40" width="40">
 	&emsp;
+	<img width="40" height="40" src="https://github.com/user-attachments/assets/6c2ea965-916d-487b-b7e0-057713d650cc" />
+	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/3710a12a-5308-4732-94a1-ba1af58f2429" height="40" width="40">
 	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/fabcc1b7-1564-4440-95a9-f2b7fdf4066e" height="40" width="40">
@@ -50,16 +52,19 @@
 	<img src="https://github.com/udara885/udara885/assets/72975955/cdc36263-89df-4fc7-9839-4f9a1e86e08c" height="40" width="40">
 </p>
 
-<!-- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=udara885&theme=react&show_icons=true&hide_border=true&count_private=false" alt="udara885" />
 	&emsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara885&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="udara885" />
-</p> -->
+</p>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+
+
