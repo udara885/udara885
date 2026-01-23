@@ -45,6 +45,10 @@
 	&emsp;
 	<img width="40" height="40" src="https://github.com/user-attachments/assets/6c2ea965-916d-487b-b7e0-057713d650cc" />
 	&emsp;
+	<img width="40" height="40" src="https://github.com/user-attachments/assets/243804b9-2bea-4908-a2a4-927f53e105ab" />
+	&emsp;
+	<img width="40" height="40" src="https://github.com/user-attachments/assets/8bfbfc94-a7fa-4c3a-87ea-1734275b148d" />
+	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/3710a12a-5308-4732-94a1-ba1af58f2429" height="40" width="40">
 	&emsp;
  	<img src="https://github.com/udara885/udara885/assets/72975955/fabcc1b7-1564-4440-95a9-f2b7fdf4066e" height="40" width="40">
@@ -65,6 +69,3 @@
 </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-
-
